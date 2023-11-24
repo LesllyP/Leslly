@@ -1,14 +1,33 @@
-[	
-{	"pais":	"EEUU",	"visitas":	23725	},	
-{	"pais":	"China",	"visitas":	1882	},	
-{	"pais":	"Japón",	"visitas":	1809	},	
-{	"pais":	"Alemania",	"visitas":	1322	},	
-{	"pais":	"Reino	Unido",	"visitas":	1122	},	
-{	"pais":	"Francia",	"visitas":	1114	},	
-{	"pais":	"India",	"visitas":	984	},	
-{	"pais":	"España",	"visitas":	711	},	
-{	"pais":	"Holanda",	"visitas":	665	},	
-{	"pais":	"Rusia",	"visitas":	580	},	
-{	"pais":	"Corea	del	Sur",	"visitas":	443	},	
-{	"pais":	"Canadá",	"visitas":	341	}		
-]
+
+{"id":	"MX-AGU",	
+"value":1653
+},
+{"id":	"MX-BCS",	
+"value":1218
+},
+{"id":	"MX-CMX",	
+"value":47682
+},
+{"id":	"MX-COA",	
+"value":2949
+},
+{"id":	"MX-COL",	
+"value":1033
+},
+{"id":	"MX-DUR",	
+"value":1245
+},
+{"id":	"MX-GRO",	
+"value":2447},
+{"id":	"MX-GUA",	
+"value":6290
+},
+{"id":	"MX-HID",	
+"value":3053
+},
+{"id":	"MX-JAL",	
+"value":14939
+},
+{"id":	"MX-MEX",	
+"value":17405
+},
